@@ -33,7 +33,7 @@ li div input {
 }
 .image {
     display: flex;
-    background-image: url(/mainImage.avif);
+    background-image: url(https://plus.unsplash.com/premium_photo-1688429242358-4f820b208894?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80);
     background-size: contain;
     height: 100vh;
     flex: 1;
